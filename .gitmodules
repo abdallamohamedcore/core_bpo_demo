@@ -34,3 +34,7 @@
 	path = thirdparty/.oca_hr
 	url = git@github.com:OCA/hr.git
 	branch = 13.0
+[submodule "thirdparty/.serpentcs_contributions"]
+	path = thirdparty/.serpentcs_contributions
+	url = git@github.com:JayVora-SerpentCS/SerpentCS_Contributions.git
+	branch = 13.0
