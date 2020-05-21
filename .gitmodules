@@ -38,3 +38,7 @@
 	path = thirdparty/.serpentcs_contributions
 	url = git@github.com:JayVora-SerpentCS/SerpentCS_Contributions.git
 	branch = 13.0
+[submodule "core/core-bpo"]
+	path = core/core-bpo
+	url = git@github.com:abdallamohamedcore/core-bpo.git
+	branch = 13.0
