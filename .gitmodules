@@ -22,3 +22,7 @@
 	path = thirdparty/.oca_reporting_engine
 	url = git@github.com:OCA/reporting-engine.git
 	branch = 13.0
+[submodule "thirdparty/.oca_timesheet"]
+	path = thirdparty/.oca_timesheet
+	url = git@github.com:OCA/timesheet.git
+	branch = 13.0
