@@ -6,3 +6,7 @@
 	path = core/3party_paid
 	url = git@github.com:abdallamohamedcore/leigh_3party_paid.git
 	branch = 13.0
+[submodule "thirdparty/.oca_project"]
+	path = thirdparty/.oca_project
+	url = git@github.com:OCA/project.git
+	branch = 13.0
