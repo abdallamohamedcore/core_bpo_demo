@@ -26,3 +26,7 @@
 	path = thirdparty/.oca_timesheet
 	url = git@github.com:OCA/timesheet.git
 	branch = 13.0
+[submodule "thirdparty/.oca_server_ux"]
+	path = thirdparty/.oca_server_ux
+	url = git@github.com:OCA/server-ux.git
+	branch = 13.0
