@@ -10,3 +10,7 @@
 	path = thirdparty/.oca_project
 	url = git@github.com:OCA/project.git
 	branch = 13.0
+[submodule "thirdparty/.cybroaddons"]
+	path = thirdparty/.cybroaddons
+	url = git@github.com:CybroOdoo/CybroAddons.git
+	branch = 13.0
