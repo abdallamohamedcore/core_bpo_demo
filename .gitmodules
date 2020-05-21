@@ -14,3 +14,7 @@
 	path = thirdparty/.cybroaddons
 	url = git@github.com:CybroOdoo/CybroAddons.git
 	branch = 13.0
+[submodule "thirdparty/.oca_queue"]
+	path = thirdparty/.oca_queue
+	url = git@github.com:OCA/queue.git
+	branch = 13.0
