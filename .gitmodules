@@ -42,3 +42,6 @@
 	path = core/core-bpo
 	url = git@github.com:abdallamohamedcore/core-bpo.git
 	branch = 13.0
+[submodule "core/.hr"]
+	path = core/.hr
+	url = git@github.com:abdallamohamedcore/hr.git
