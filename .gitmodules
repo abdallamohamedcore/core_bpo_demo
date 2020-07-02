@@ -45,3 +45,7 @@
 [submodule "core/.hr"]
 	path = core/.hr
 	url = git@github.com:abdallamohamedcore/hr.git
+[submodule "thirdparty/.oca_server_tool"]
+	path = thirdparty/.oca_server_tool
+	url = git@github.com:OCA/server-tools.git
+	branch = 13.0
