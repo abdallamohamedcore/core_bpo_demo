@@ -49,3 +49,11 @@
 	path = thirdparty/.oca_server_tool
 	url = git@github.com:OCA/server-tools.git
 	branch = 13.0
+[submodule "thirdparty/.oca_web"]
+	path = thirdparty/.oca_web
+	url = git@github.com:OCA/web.git
+	branch = 13.0
+[submodule "thirdparty/.oca_server_tools"]
+	path = thirdparty/.oca_server_tools
+	url = git@github.com:OCA/server-tools.git
+	branch = 13.0
