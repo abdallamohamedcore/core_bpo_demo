@@ -53,3 +53,7 @@
 	path = thirdparty/.oca_server_tools
 	url = git@github.com:OCA/server-tools.git
 	branch = 13.0
+[submodule "core/.accounting"]
+	path = core/.accounting
+	url = git@github.com:abdallamohamedcore/accounting-product.git
+	branch = develop
